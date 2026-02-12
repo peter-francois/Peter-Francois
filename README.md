@@ -44,7 +44,6 @@ Personal e-commerce project for a leather goods and macramé artisan.
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat&logo=reactquery&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
 
 **Backend**  
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
@@ -60,14 +59,12 @@ Personal e-commerce project for a leather goods and macramé artisan.
 **Tools & Collaboration**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![YouTrack](https://img.shields.io/badge/YouTrack-0F2A44?style=flat&logo=jetbrains&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=flat&logo=diagramsdotnet&logoColor=white)
-![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?style=flat&logo=excalidraw&logoColor=white)
 
 ---
 
 ## 📫 Contact Me  
-Book a time here: [Calendly](https://calendly.com/contact-peterfrancois/)  
+Book a time here: [Calendly](https://calendly.com/peter-francois-dev)  
 More details on my profile: [LinkedIn](https://www.linkedin.com/in/peterfrancois/)  
 My online CV: [Notion](https://dent-porkpie-6f0.notion.site/D-veloppeur-web-full-stack-2bcaef03142280dd9ffad5f3ff6f0bc4?pvs=74)  
 Email: contact@peterfrancois.dev
